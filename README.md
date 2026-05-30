@@ -13,13 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-2703)
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush-2703&style=for-the-badge&color=58A6FF&label=VIEWS)
-
-<br/>
-
-[![Oracle AI](https://img.shields.io/badge/Oracle-AI_Foundations_Associate_2025-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![Oracle Arch](https://img.shields.io/badge/Oracle-Migration_Architect_Professional_2025-CC0000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.netacad.com)
 
 </div>
 
@@ -76,29 +69,15 @@ class AyushKumarSingh:
 ## 🔬 Featured Projects
 
 ### 🌍 GeoData Processing with AI `[May – Jul 2025]`
-> Production-grade CNN + Transformer hybrid pipeline for satellite imagery land-cover classification
+> CNN + BiLSTM + Transformer ensemble pipeline for satellite imagery classification & change detection
 
 | Component | Stack |
 |-----------|-------|
-| Architecture | ResNet50 backbone → Transformer encoder |
-| Framework | PyTorch · GDAL · Rasterio · Torchvision |
-| Input | Multi-spectral Sentinel-2 imagery |
-| Task | Land-cover classification & change detection |
-
----
-
-### 🤖 LLM Fine-tuning Lab
-> Systematic PEFT experiments: LoRA vs QLoRA vs full fine-tuning
-
-```yaml
-models  : [Llama-2-7b-hf, Mistral-7B-v0.1, microsoft/phi-2]
-methods : [LoRA-r4, LoRA-r8, LoRA-r16, QLoRA-4bit, Full-FT]
-metrics : [ROUGE-L, BERTScore, Perplexity]
-finding : "LoRA r=16 optimal — 94.2% ROUGE-L at 0.12x full-FT compute"
-```
-
-[![View Repo](https://img.shields.io/badge/llm--finetuning--lab-100000?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
-
+| **Models** | U-Net CNN · Stacked BiLSTM/GRU · Spectral Transformer · Ensemble Fusion |
+| **Geospatial** | ISRO ResourceSat-2 LISS-III · rasterio · NDVI/NDWI/NDBI/NBR indices |
+| **XAI** | Gradient-based Saliency Maps (vanilla backprop) |
+| **Results** | Water Acc **1.00** · Land-cover Acc **0.67** · **5.95%** change detected |
+| **Testing** | 32 unit tests · GitHub Actions (Python 3.8–3.11) · MIT License |
 ---
 
 ### ⚡ Transformer from Scratch
