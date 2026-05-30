@@ -1,9 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-   AYUSH KUMAR SINGH — Profile README v2.0
-   Step 1: Create a new repo named exactly "Ayush-2703" on GitHub
-   Step 2: Add this file as README.md — GitHub auto-renders it
-═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Ayush+Kumar+Singh;AI+Engineer+%26+LLM+Researcher;LLMs+%7C+NLP;B.Tech+AI+%40+Amity+University" alt="Typing SVG Header" />
@@ -20,33 +14,23 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👨‍💻 Who I Am
-- 🎓 B.Tech AI @ Amity University Lucknow *(CGPA: 8.26)*
-- 📍 Lucknow, India
-- 🔬 AI Engineer & ML Researcher
-- 📄 Published: *Review of Transformer Architectures*
+🎓 **B.Tech AI** @ Amity University Lucknow &nbsp;·&nbsp; CGPA **8.26**  
+📍 Saran, Bihar, India  
+📄 Published: *Geodata Processing Using Artificial Intelligence* | *Cybersecurity Threats in AI-Driven Construction Systems*
 
-</td>
-<td valign="top" width="50%">
+<br/>
 
-### 🚀 What I'm Working On
-- 🌍 Geospatial AI — CNN + Transformer for satellite imagery
-- 🤖 LLM Fine-tuning — LoRA/QLoRA on Llama-2, Mistral-7B
-- ⚡ Custom Transformer implementations from scratch
-- 🧬 NLP & Generative AI (BERT, GPT, ViT families)
+**I specialise in:**  
+🤖 &nbsp;LLM Fine-tuning — LoRA / QLoRA / Full fine-tuning  
+⚡ &nbsp;Transformer Architectures — built from mathematical ground up  
+🌍 &nbsp;Geospatial AI — CNN + Transformer for satellite imagery analysis  
+🧠 &nbsp;NLP & Generative AI — BERT, GPT, ViT families  
 
-</td>
-</tr>
-</table>
+<br/>
 
-> 💬 *"Building tomorrow's intelligence, one architecture at a time."*
-> 
-> 🤝 Open to **AI/ML Internships** · **Research Collaborations** · **OSS Contributions**
-
+🤝 Open to **AI/ML Internships** · **Research Collaborations** · **OSS Contributions**
 ---
 
 ## 🛠️ Tech Stack
