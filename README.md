@@ -22,7 +22,7 @@
 
 <br/>
 
-**I specialise in:**  
+**Specialise in:**  
 🤖 &nbsp;LLM Fine-tuning — LoRA / QLoRA / Full fine-tuning  
 ⚡ &nbsp;Transformer Architectures — built from mathematical ground up  
 🌍 &nbsp;Geospatial AI — CNN + Transformer for satellite imagery analysis  
