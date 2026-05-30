@@ -20,27 +20,33 @@
 
 ## 🧠 About Me
 
-🎓 **B.Tech Artificial Intelligence** @ Amity University Lucknow *(CGPA: 8.26)*  
-📍 Lucknow, India &nbsp;|&nbsp; 📄 Published researcher on Transformer Architectures
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<br/>
+### 👨‍💻 Who I Am
+- 🎓 B.Tech AI @ Amity University Lucknow *(CGPA: 8.26)*
+- 📍 Lucknow, India
+- 🔬 AI Engineer & ML Researcher
+- 📄 Published: *Review of Transformer Architectures*
 
-I build and research **intelligent systems** across the full AI stack — from implementing  
-Transformer architectures from mathematical first principles to fine-tuning LLMs with  
-LoRA/QLoRA, and applying deep learning to real-world geospatial problems.
+</td>
+<td valign="top" width="50%">
 
-<br/>
+### 🚀 What I'm Working On
+- 🌍 Geospatial AI — CNN + Transformer for satellite imagery
+- 🤖 LLM Fine-tuning — LoRA/QLoRA on Llama-2, Mistral-7B
+- ⚡ Custom Transformer implementations from scratch
+- 🧬 NLP & Generative AI (BERT, GPT, ViT families)
 
-| 🔬 Research Focus | 🌱 Currently Building |
-|---|---|
-| LLMs — LoRA/QLoRA fine-tuning (Llama-2, Mistral-7B) | Geospatial AI pipeline for satellite imagery |
-| Transformer architectures from scratch | LLM fine-tuning ablation study |
-| Geospatial AI — CNN + Transformer hybrid | Custom attention mechanisms |
-| NLP & Generative AI (BERT, GPT, ViT) | Open-source contributions |
+</td>
+</tr>
+</table>
 
-<br/>
+> 💬 *"Building tomorrow's intelligence, one architecture at a time."*
+> 
+> 🤝 Open to **AI/ML Internships** · **Research Collaborations** · **OSS Contributions**
 
-> 🤝 Open to **AI/ML Internships** · **Research Collaborations** · **Open-Source Contributions**
 ---
 
 ## 🛠️ Tech Stack
