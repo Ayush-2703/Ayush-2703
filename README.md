@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Ayush+Kumar+Singh;AI+Engineer+%26+LLM+Researcher;Transformer+Architect+%7C+Geospatial+AI;B.Tech+AI+%40+Amity+University" alt="Typing SVG Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Ayush+Kumar+Singh;AI+Engineer+%26+LLM+Researcher;LLMs+%7C+NLP;B.Tech+AI+%40+Amity+University" alt="Typing SVG Header" />
 
 <br/>
 
@@ -20,29 +20,23 @@
 
 ## 🧠 About Me
 
-```python
-class AyushKumarSingh:
-    def __init__(self):
-        self.name        = "Ayush Kumar Singh"
-        self.role        = "AI Engineer & ML Researcher"
-        self.university  = "Amity University Lucknow | B.Tech AI | CGPA: 8.26"
-        self.location    = "Lucknow, India 🇮🇳"
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-        self.research    = [
-            "LLMs — Fine-tuning with LoRA/QLoRA (Llama-2, Mistral-7B, Phi-2)",
-            "Transformer Architectures — Custom from-scratch implementations",
-            "Geospatial AI — CNN + Transformer hybrid for satellite imagery",
-            "NLP & Generative AI (BERT, GPT, ViT families)",
-        ]
+🎓 **B.Tech AI** @ Amity University Lucknow &nbsp;·&nbsp; CGPA **8.26**  
+📍 Lucknow, India  
+📄 Published: *Review of Transformer Architectures (BERT, GPT, ViT)*
 
-        self.current     = "GeoData Processing AI  [May–Jul 2025]"
-        self.published   = "Academic Review: Transformer Architectures (BERT, GPT, ViT)"
-        self.open_to     = ["Research Collaborations", "AI/ML Internships", "OSS Contributions"]
+<br/>
 
-    def say_hi(self):
-        print("Building tomorrow's intelligence, one architecture at a time.")
-```
+**I specialise in:**  
+🤖 &nbsp;LLM Fine-tuning — LoRA / QLoRA / Full fine-tuning  
+⚡ &nbsp;Transformer Architectures — built from mathematical ground up  
+🌍 &nbsp;Geospatial AI — CNN + Transformer for satellite imagery analysis  
+🧠 &nbsp;NLP & Generative AI — BERT, GPT, ViT families  
 
+<br/>
+
+🤝 Open to **AI/ML Internships** · **Research Collaborations** · **OSS Contributions**
 ---
 
 ## 🛠️ Tech Stack
@@ -122,9 +116,8 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 | 🔒 Cybersecurity Essentials | Cisco NetAcad | Security |
 | 🔒 Introduction to Cybersecurity | Cisco NetAcad | Security |
 | 🛡️ Digital Forensics Concepts | Infosec | Forensics |
-| 🗺️ GeoData Processing — Python & ML | Course Provider | Geospatial AI |
-| 🗺️ Geo-data Sharing & Cybersecurity | Course Provider | Geospatial |
-| 🗺️ Overview of GIS | Course Provider | Geospatial |
+| 🗺️ GeoData Processing — Python & ML | IIRS-ISRO | Geospatial AI |
+| 🗺️ Geo-data Sharing & Cybersecurity | IIRS-ISRO | Geospatial, Security |
 
 ---
 
