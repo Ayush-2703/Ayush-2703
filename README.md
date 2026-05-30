@@ -16,7 +16,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 **B.Tech AI** @ Amity University Lucknow &nbsp;·&nbsp; CGPA **8.26**  
+🎓 **B.Tech AI** @ Amity University Lucknow &nbsp;·&nbsp; CGPA **8.48/10**  
 📍 Saran, Bihar, India  
 📄 Published: *Geodata Processing Using Artificial Intelligence* | *Cybersecurity Threats in AI-Driven Construction Systems*
 
