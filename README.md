@@ -20,23 +20,27 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 **B.Tech AI** @ Amity University Lucknow &nbsp;·&nbsp; CGPA **8.26**  
-📍 Lucknow, India  
-📄 Published: *Review of Transformer Architectures (BERT, GPT, ViT)*
+🎓 **B.Tech Artificial Intelligence** @ Amity University Lucknow *(CGPA: 8.26)*  
+📍 Lucknow, India &nbsp;|&nbsp; 📄 Published researcher on Transformer Architectures
 
 <br/>
 
-**I specialise in:**  
-🤖 &nbsp;LLM Fine-tuning — LoRA / QLoRA / Full fine-tuning  
-⚡ &nbsp;Transformer Architectures — built from mathematical ground up  
-🌍 &nbsp;Geospatial AI — CNN + Transformer for satellite imagery analysis  
-🧠 &nbsp;NLP & Generative AI — BERT, GPT, ViT families  
+I build and research **intelligent systems** across the full AI stack — from implementing  
+Transformer architectures from mathematical first principles to fine-tuning LLMs with  
+LoRA/QLoRA, and applying deep learning to real-world geospatial problems.
 
 <br/>
 
-🤝 Open to **AI/ML Internships** · **Research Collaborations** · **OSS Contributions**
+| 🔬 Research Focus | 🌱 Currently Building |
+|---|---|
+| LLMs — LoRA/QLoRA fine-tuning (Llama-2, Mistral-7B) | Geospatial AI pipeline for satellite imagery |
+| Transformer architectures from scratch | LLM fine-tuning ablation study |
+| Geospatial AI — CNN + Transformer hybrid | Custom attention mechanisms |
+| NLP & Generative AI (BERT, GPT, ViT) | Open-source contributions |
+
+<br/>
+
+> 🤝 Open to **AI/ML Internships** · **Research Collaborations** · **Open-Source Contributions**
 ---
 
 ## 🛠️ Tech Stack
@@ -128,7 +132,7 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
 
-*Open to AI/ML internships · Research collaborations · Open-source contributions in LLMs & Geospatial AI*
+*Open to AI/ML internships · Research collaborations · Open-source contributions in LLMs & NLP*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=60&section=footer" />
 
