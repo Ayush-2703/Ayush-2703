@@ -87,16 +87,16 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-2703&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-2703&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-2703&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-2703&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-2703&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-2703&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&area=true" />
 </div>
 
 ---
