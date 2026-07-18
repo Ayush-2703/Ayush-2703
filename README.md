@@ -1,9 +1,7 @@
 <div align="center">
 
 ![AYUSH KUMAR SINGH](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=250&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineere%20and%20Researcher%20|%20NLP,%20LLMs,%20Adversarial%20ML&descSize=18&descAlignY=58)
-
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-2703)
