@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Ayush+Kumar+Singh;AI+Engineer+%26+LLM+Researcher;LLMs+%7C+NLP;B.Tech+AI+%40+Amity+University" alt="Typing SVG Header" />
+![AYUSH KUMAR SINGH](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=2500&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineere%20&%20Researcher%20|%20NLP,%20LLMs,%20Adversarial%20ML&descSize=18&descAlignY=58)
 
 <br/>
 
