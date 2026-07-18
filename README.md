@@ -1,6 +1,6 @@
 <div align="center">
 
-![AYUSH KUMAR SINGH](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=250&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineere%20and%20Researcher%20|%20NLP,%20LLMs,%20Adversarial%20ML&descSize=18&descAlignY=58)
+![AYUSH KUMAR SINGH](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:5B21B6&height=250&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=64&fontColor=F1F5F9&fontAlignY=36&animation=fadeIn&desc=AI%20Engineere%20and%20Researcher%20|%20NLP,%20LLMs,%20Adversarial%20ML&descSize=18&descAlignY=58)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
@@ -122,6 +122,6 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 
 *Open to AI/ML internships · Research collaborations · Open-source contributions in LLMs & NLP*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=60&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:5B21B6height=60&section=footer" />
 
 </div>
