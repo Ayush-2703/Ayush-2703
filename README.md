@@ -1,6 +1,6 @@
 <div align="center">
 
-![AYUSH KUMAR SINGH](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=250&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineere%20&%20Researcher%20|%20NLP,%20LLMs,%20Adversarial%20ML&descSize=18&descAlignY=58)
+![AYUSH KUMAR SINGH](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=250&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineere%20and%20Researcher%20|%20NLP,%20LLMs,%20Adversarial%20ML&descSize=18&descAlignY=58)
 
 <br/>
 
