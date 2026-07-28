@@ -90,7 +90,7 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
