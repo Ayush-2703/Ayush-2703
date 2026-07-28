@@ -90,13 +90,12 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true&count_private=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-2703&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&area=true" />
 </div>
-
 ---
 
 ## 🏆 Certifications
