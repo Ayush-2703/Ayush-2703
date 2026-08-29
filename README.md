@@ -91,10 +91,6 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-2703/Ayush-2703/output/snake-dark.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Ayush-2703/Ayush-2703/output/snake.svg" />
