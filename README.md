@@ -84,8 +84,14 @@ Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and V
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
   <img src="./metrics.svg" alt="GitHub Metrics" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ayush-2703&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
