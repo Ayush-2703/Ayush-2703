@@ -27,8 +27,6 @@ What sets my work apart is the habit behind it, not the stack:
 - **I verify my own claims.** My repos ship tests, CI, and honest results, including bugs, failed experiments, and discrepancies I found in my own reports.
 - **I publish.** I co-authored two conference papers, and both have open-source reference implementations you can run.
 
-> *"Documented real bugs and fixed them rather than hiding them"* is the standard I hold every repository to.
-
 ---
 
 ## 🎯 Currently
@@ -50,76 +48,6 @@ What sets my work apart is the habit behind it, not the stack:
 **Generative AI & Agentic Systems Intern · Lenovo LEAP** · *Jun 2026 – Jul 2026*
 - Completed a 6-week engineering internship on generative AI architectures: **multi-agent systems, tool-calling pipelines, and LLM-driven workflows** for automated problem-solving.
 
----
-## 🧠 About Me
-
-
-
-🎓 **B.Tech AI** @ Amity University Lucknow &nbsp;·&nbsp; CGPA **8.48/10**  
-📍 Saran, Bihar, India  
-📄 Published: *Geodata Processing Using Artificial Intelligence* | *Cybersecurity Threats in AI-Driven Construction Systems*
-
-<br/>
-
-**Specialise in:**  
-🤖 &nbsp;LLM Fine-tuning — LoRA / QLoRA / Full fine-tuning  
-⚡ &nbsp;Transformer Architectures — built from mathematical ground up  
-🌍 &nbsp;Geospatial AI — CNN + Transformer for satellite imagery analysis  
-🧠 &nbsp;NLP & Generative AI — BERT, GPT, ViT families  
-
-<br/>
-
-🤝 Open to **AI/ML Internships** · **Research Collaborations** · **OSS Contributions**
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**AI / ML**\
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**DevOps & Cloud**\
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🔬 Featured Projects
-
-### 🌍 GeoData Processing with AI `[May – Jul 2025]`
-> CNN + BiLSTM + Transformer ensemble pipeline for satellite imagery classification & change detection
-
-| Component | Stack |
-|-----------|-------|
-| **Models** | U-Net CNN · Stacked BiLSTM/GRU · Spectral Transformer · Ensemble Fusion |
-| **Geospatial** | ISRO ResourceSat-2 LISS-III · rasterio · NDVI/NDWI/NDBI/NBR indices |
-| **XAI** | Gradient-based Saliency Maps (vanilla backprop) |
-| **Results** | Water Acc **1.00** · Land-cover Acc **0.67** · **5.95%** change detected |
-| **Testing** | 32 unit tests · GitHub Actions (Python 3.8–3.11) · MIT License |
----
-
-### ⚡ Transformer from Scratch
-> Complete Encoder / Decoder / Encoder-Decoder — full math framework, no high-level APIs
-
-Linked to academic review paper on self-attention, BERT vs GPT trade-offs, and ViT.
-
-[![View Repo](https://img.shields.io/badge/Transformer--from--Scratch-100000?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/Transformer-)
-
----
-
-### 🕵️ AI Job Agent
-> Automated job search + resume tailoring via Gemini 2.5 Flash + Tinyfish API
-
-[![View Repo](https://img.shields.io/badge/ai__job__agent-100000?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/ai_job_agent)
 
 ---
 
