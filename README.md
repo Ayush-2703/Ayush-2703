@@ -48,7 +48,6 @@ What sets my work apart is the habit behind it, not the stack:
 **Generative AI & Agentic Systems Intern · Lenovo LEAP** · *Jun 2026 – Jul 2026*
 - Completed a 6-week engineering internship on generative AI architectures: **multi-agent systems, tool-calling pipelines, and LLM-driven workflows** for automated problem-solving.
 
-
 ---
 
 ## 📊 GitHub Analytics
@@ -192,8 +191,7 @@ This is a running log of my optimized Python solutions to LeetCode problems, kep
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<details>
-<summary><b>Skills at a glance</b></summary>
+**Skills at a glance**
 
 | Area | Skills |
 |---|---|
@@ -203,8 +201,6 @@ This is a running log of my optimized Python solutions to LeetCode problems, kep
 | **Security** | Cybersecurity essentials, network security, adversarial ML, digital forensics concepts |
 | **Geospatial** | Satellite image analysis, remote sensing, land-cover classification |
 | **Practices** | Unit testing, CI/CD, reproducible experiments, ablation studies |
-
-</details>
 
 ---
 
