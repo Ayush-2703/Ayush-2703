@@ -17,6 +17,8 @@
 
 ## 👋 About Me
 
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 I'm a final-year **B.Tech Artificial Intelligence** student at **Amity University Lucknow** (CGPA **8.48**) and a fresher actively looking for my first full-time role in ML / AI engineering.
 
 What sets my work apart is the habit behind it, not the stack:
@@ -51,7 +53,7 @@ What sets my work apart is the habit behind it, not the stack:
 ---
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 🎓 **B.Tech AI** @ Amity University Lucknow &nbsp;·&nbsp; CGPA **8.48/10**  
 📍 Saran, Bihar, India  
