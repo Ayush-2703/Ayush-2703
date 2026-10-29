@@ -225,9 +225,9 @@ This is a running log of my optimized Python solutions to LeetCode problems, kep
 
 | Degree | Institution | Period | Score |
 |---|---|---|---|
-| **B.Tech, Artificial Intelligence** | Amity University Lucknow | 2023 – Present | CGPA **8.48/10** |
+| **B. Tech, Artificial Intelligence** | Amity University Lucknow | 2023 – Present | CGPA **8.48/10** |
 | Intermediate (10+2) | SDS College, Saran | 2023 | 67.8% |
-| 10 | Shakti Shanti Aademy, Saran | 2023 | 81.2% |
+| Secondary (10) | Shakti Shanti Aademy, Saran | 2023 | 81.2% |
 
 **Languages:** English · Hindi (full professional proficiency) · French (elementary)
 
