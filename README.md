@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ayush-2703/)
 [![Publications](https://img.shields.io/badge/Publications-2%20co--authored-5B21B6?style=for-the-badge)](#-research--publications)
 [![CGPA](https://img.shields.io/badge/CGPA-8.48-1E3A8A?style=for-the-badge)](#-education)
 
