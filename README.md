@@ -172,6 +172,14 @@ This is a 24-topic NLP curriculum across five phases that follows the path the f
 
 This is a five-phase curriculum that takes LLMs apart topic by topic, from internals to applications and current frontiers. Every one of its **23 topics** has the same three files: `theory.md`, `implementation.py` and `explanation.md`. All code is actually run, and I report what happened, including bugs, instabilities and inconclusive results, instead of showing only the runs that worked. I built it to learn LLMs properly and so that a reader can follow the reasoning and rerun every result themselves.
 
+| Area | Details |
+|---|---|
+| **Scope** | 5 phases · 23 topics, from LLM internals to applications and frontiers |
+| **Per-topic format** | `theory.md` · `implementation.py` · `explanation.md` |
+| **Execution** | All code actually run, not just written |
+| **Reporting** | Bugs, instabilities and inconclusive results documented honestly |
+| **Stack** | Python · PyTorch |
+
 `LLMs` `PyTorch` `NLP` `Generative AI`
 
 [![Repo](https://img.shields.io/badge/View_Repo-Large__Language__Models-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/Large_languaage_Models)
