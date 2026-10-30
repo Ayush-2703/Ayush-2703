@@ -72,6 +72,16 @@ What sets my work apart is the habit behind it, not the stack:
 
 AI systems in the built environment are increasingly trusted with real decisions, yet their security is rarely examined. ACIS organises that risk into a **7-vector adversarial threat taxonomy** across 4 AI asset categories. It lets you simulate **five attack classes** (FGSM, PGD, data poisoning, model extraction and backdoor) and evaluate **six defense mechanisms** on three synthetic datasets of 3,700+ samples. A **5-page Streamlit dashboard** and a CLI make live threat assessment possible without touching the code. The project is tested with **35+ unit tests and CI across 3 Python versions**, and it is the **reference implementation of my ICCCIS-2026 paper**.
 
+| Area | Details |
+|---|---|
+| **Threat model** | 7-vector adversarial threat taxonomy across 4 AI asset categories |
+| **Attacks simulated** | FGSM · PGD · data poisoning · model extraction · backdoor (5 classes) |
+| **Defenses** | 6 defense mechanisms |
+| **Data** | 3 synthetic datasets, 3,700+ samples |
+| **Interface** | 5-page interactive **Streamlit** dashboard + CLI |
+| **Quality** | 35+ unit tests · CI across 3 Python versions |
+| **Publication** | Reference implementation for **ICCCIS-2026** |
+
 `Python` `Streamlit` `Adversarial ML` `pytest` `GitHub Actions`
 
 [![Repo](https://img.shields.io/badge/View_Repo-acis__framework-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/acis_framework)
