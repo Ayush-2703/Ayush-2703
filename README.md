@@ -92,6 +92,14 @@ AI systems in the built environment are increasingly trusted with real decisions
 
 This is a from-scratch PyTorch implementation of the **FT-Transformer** (Gorishniy et al., 2021), which turns every feature of a table into a token and runs self-attention over them. I benchmarked it on California Housing against Linear, Ridge and tuned Decision Tree baselines, and it reached **24.6% lower RMSE** (3-seed average). I backed the result with ablations on attention heads and depth, a 50-trial Optuna search and a cross-seed stability check, so it isn't a single lucky run. The code is packaged as a library with **50 tests, 98% coverage, Docker and CI on Python 3.10 / 3.11 / 3.12**. While cross-checking my own internship report against the code, I found and fixed two errors, a parameter count (184,321 reported vs **57,131** verified) and an overstated permutation-invariance claim, and documented both in the repo.
 
+| Area | Details |
+|---|---|
+| **Benchmark** | California Housing vs. Linear, Ridge and tuned Decision Tree baselines |
+| **Result** | **24.6% lower RMSE** than tuned classical baselines (3-seed average) |
+| **Rigor** | Ablations on attention heads and depth · 50-trial Optuna search · 3-seed stability check |
+| **Quality** | **50 tests · 98% coverage** · CI on Python 3.10 / 3.11 / 3.12 · Docker · pre-commit |
+| **Integrity** | Two report-vs-code discrepancies found and fixed: parameter count (184,321 reported vs **57,131** verified) and an overstated permutation-invariance claim |
+
 `PyTorch` `Optuna` `scikit-learn` `Docker` `CI/CD`
 
 [![Repo](https://img.shields.io/badge/View_Repo-FT--Transformer-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/FT-Transformer)
