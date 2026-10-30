@@ -190,6 +190,14 @@ This is a five-phase curriculum that takes LLMs apart topic by topic, from inter
 
 This is a six-phase PyTorch curriculum that goes from neural-network foundations through CNNs, RNNs and LSTMs to Transformers, generative AI and MLOps. It uses the same three-file structure per topic as my LLM repo: theory, runnable implementation and a written explanation. Every script is executed, and the results are reported honestly, with bugs and failed experiments documented. Together with the LLM curriculum, it covers **11 structured phases** of self-taught deep learning built on first principles.
 
+| Area | Details |
+|---|---|
+| **Scope** | 6 phases: foundations → CNNs → RNNs/LSTMs → Transformers → generative AI → MLOps |
+| **Per-topic format** | `theory.md` · `implementation.py` · `explanation.md` |
+| **Execution** | All code actually run, with results reported as they came out |
+| **Reporting** | Bugs and failed experiments documented |
+| **Stack** | Python · PyTorch |
+
 `PyTorch` `CNN` `RNN/LSTM` `GenAI` `MLOps`
 
 [![Repo](https://img.shields.io/badge/View_Repo-Deep__Learning-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/Deep_Learning)
