@@ -225,6 +225,13 @@ This project automates the repetitive part of job hunting: finding relevant open
 
 This is a running log of my optimized Python solutions to LeetCode problems, kept to build Data Structures and Algorithms fluency for placement drives. My approach is pattern recognition first: I identify the underlying pattern and struggle with a problem before reading any solution. The goal is not a high solved-count but being able to explain why an approach works and what its time and space complexity is. It sits alongside my ML work because strong engineers need both.
 
+| Area | Details |
+|---|---|
+| **Content** | Optimized solutions to LeetCode problems, logged as I go |
+| **Language** | Python |
+| **Focus** | Data Structures & Algorithms for campus placements |
+| **Approach** | Pattern recognition first; struggle with a problem before reading any solution |
+
 `Python` `DSA` `Problem Solving`
 
 [![Repo](https://img.shields.io/badge/View_Repo-LeetCode__Problems-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/LeetCode_Problems)
