@@ -131,6 +131,15 @@ This is an end-to-end pipeline for **ISRO ResourceSat-2 LISS-III** satellite ima
 
 This repo retraces the full path from **RNN to LSTM to Transformer**, explaining why each step was needed. It implements all three Transformer families: an Encoder (BERT-style), a Decoder (GPT-style) and an Encoder-Decoder for sequence-to-sequence tasks. Every module has a theory note, the derived maths, working code and a plain-language explanation. It also includes a **pure-Python decoder with no PyTorch or NumPy**, so every operation is visible, plus training with a warmup learning-rate schedule, comparison tables, a glossary and a limitations section. Built with a collaborator under faculty guidance, it has 72 commits and is meant to be a reference for anyone learning how LLMs actually work.
 
+| Area | Details |
+|---|---|
+| **Architectures** | Encoder (BERT-style) · Decoder (GPT-style) · Encoder-Decoder (seq2seq) |
+| **Foundations** | RNN · LSTM · attention mechanism · input embeddings · positional encoding |
+| **Pure Python** | Decoder with no PyTorch or NumPy, only floats, lists and calculus |
+| **Training** | Warmup learning-rate schedule · training code with explanation |
+| **Extras** | Architecture diagrams · comparison tables · glossary · limitations · references |
+| **Scale** | 72 commits · collaborative project under faculty guidance |
+
 `PyTorch` `Self-Attention` `NLP` `LLMs` `Pure Python`
 
 [![Repo](https://img.shields.io/badge/View_Repo-transformer--from--scratch-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/transformer-from-scratch)
