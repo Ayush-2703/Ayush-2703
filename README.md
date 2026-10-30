@@ -110,6 +110,17 @@ This is a from-scratch PyTorch implementation of the **FT-Transformer** (Gorishn
 
 This is an end-to-end pipeline for **ISRO ResourceSat-2 LISS-III** satellite imagery. It covers water-body classification, 8-class land-cover mapping, multi-temporal change detection and figure generation. The first version uses Random Forest and an MLP in scikit-learn. The second version, in PyTorch, combines a **U-Net CNN, stacked BiLSTM/GRU and a Spectral Transformer** through ensemble fusion, using spectral indices (NDVI, NDWI, NDBI, NBR) and gradient-based saliency maps for explainability. Reported results are water accuracy 1.00, land-cover accuracy 0.67 and 5.95% change detected, and the repo has 32 unit tests with GitHub Actions on Python 3.8–3.11. It is the implementation behind my **NCESTSD 2025** paper.
 
+| Area | Details |
+|---|---|
+| **Data** | ISRO ResourceSat-2 LISS-III multi-spectral imagery |
+| **Pipeline v1** | Random Forest + MLP (scikit-learn) |
+| **Pipeline v2** | U-Net CNN · stacked BiLSTM/GRU · Spectral Transformer · ensemble fusion (PyTorch) |
+| **Geospatial** | rasterio · NDVI / NDWI / NDBI / NBR spectral indices |
+| **Explainability** | Gradient-based saliency maps |
+| **Reported results** | Water accuracy **1.00** · land-cover accuracy **0.67** · **5.95%** change detected |
+| **Quality** | 32 unit tests · GitHub Actions (Python 3.8–3.11) · MIT License |
+| **Publication** | **NCESTSD 2025** |
+
 `PyTorch` `rasterio` `Remote Sensing` `CNN` `Transformer`
 
 [![Repo](https://img.shields.io/badge/View_Repo-Geodata__Processing-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/Geodata_Processing)
