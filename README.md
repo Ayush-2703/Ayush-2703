@@ -150,6 +150,18 @@ This repo retraces the full path from **RNN to LSTM to Transformer**, explaining
 
 This is a 24-topic NLP curriculum across five phases that follows the path the field itself took. It starts with word vectors, TF-IDF and t-SNE, moves through bigram and neural language models, then Word2Vec (CBOW, Skip-Gram, negative sampling), matrix factorization, PMI and **GloVe**. It continues into sequence tagging with **HMM and RNN POS taggers and NER**, and ends with recursive networks, including a **Recursive Neural Tensor Network for sentiment on the Stanford Sentiment Treebank**. Each topic ships four parts: a `theory.md` with the derivations, a runnable PyTorch/TensorFlow implementation on real datasets (20 Newsgroups, text8, CoNLL-2003, SST), a line-by-line `explanation.md` and supporting diagrams. The curriculum is anchored in the Bengio, Collobert & Weston and GloVe papers, and the repo has **416 commits**.
 
+| Area | Details |
+|---|---|
+| **Scope** | 24 topics across 5 phases, following the historical path of NLP |
+| **Representations** | Word vectors · TF-IDF · t-SNE · Word2Vec (CBOW, Skip-Gram, negative sampling) · matrix factorization · PMI · **GloVe** |
+| **Language models** | Bigram and neural language models |
+| **Sequence tagging** | HMM and RNN POS taggers · Named Entity Recognition |
+| **Recursive networks** | **Recursive Neural Tensor Network** for sentiment on the Stanford Sentiment Treebank |
+| **Datasets** | 20 Newsgroups · text8 · CoNLL-2003 · SST |
+| **Per-topic format** | `theory.md` with derivations · runnable implementation · line-by-line `explanation.md` · diagrams |
+| **Stack** | PyTorch · TensorFlow |
+| **Anchored in** | Bengio, Collobert & Weston, and GloVe papers · **416 commits** |
+
 `PyTorch` `TensorFlow` `Word2Vec` `GloVe` `HMM` `RNN` `NER`
 
 [![Repo](https://img.shields.io/badge/View_Repo-Natural__Language__Processing-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/Natural_Language_Processing)
