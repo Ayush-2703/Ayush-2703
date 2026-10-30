@@ -208,6 +208,13 @@ This is a six-phase PyTorch curriculum that goes from neural-network foundations
 
 This project automates the repetitive part of job hunting: finding relevant openings and tailoring a resume to each one. It is written in Python and uses **Gemini 2.5 Flash** together with the **Tinyfish API**. I built it after my Generative AI and Agentic Systems internship at Lenovo LEAP, where I worked on multi-agent systems and tool-calling pipelines. It is a small, practical example of an LLM-driven workflow that does real work for the person using it.
 
+| Area | Details |
+|---|---|
+| **Purpose** | Automated job search + resume tailoring |
+| **LLM** | Gemini 2.5 Flash |
+| **Tooling** | Tinyfish API |
+| **Language** | Python |
+
 `Python` `Gemini 2.5 Flash` `Agentic AI` `Tinyfish API`
 
 [![Repo](https://img.shields.io/badge/View_Repo-ai__job__agent-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703/ai_job_agent)
