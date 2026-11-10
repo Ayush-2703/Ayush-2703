@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:5B21B6&height=250&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=60&fontColor=F1F5F9&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Final-Year%20B.Tech%20(AI)&descSize=18&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:5B21B6&height=250&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=60&fontColor=F1F5F9&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Final-Year%20B.Tech%20(AI)&descSize=18&descAlignY=58)
 
 **I build deep learning systems from first principles, then test them like production software.**
 
