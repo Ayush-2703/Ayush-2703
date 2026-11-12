@@ -111,8 +111,7 @@ A Python workflow that searches job listings, retrieves descriptions, and helps 
 
 ![GitHub metrics](https://raw.githubusercontent.com/Ayush-2703/Ayush-2703/main/metrics.svg)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush-2703&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-2703&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
 
 </div>
 
@@ -120,7 +119,11 @@ A Python workflow that searches job listings, retrieves descriptions, and helps 
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Ayush-2703/Ayush-2703/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-2703/Ayush-2703/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-2703/Ayush-2703/output/snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ayush-2703/Ayush-2703/output/snake.svg" />
+</picture>
 
 </div>
 
